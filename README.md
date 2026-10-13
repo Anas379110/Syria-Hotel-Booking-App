@@ -1,21 +1,20 @@
-# تطبيق حجز الفنادق في سوريا
-**Syria Hotel Booking App** · التصنيف: موبايل (Flutter)
+# Syria Hotel Booking App
+**Syria Hotel Booking App** · Classification: Mobile (Flutter)
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-تطبيق واحد يجمع خيارات الإقامة والحجز في سوريا بطريقة أسهل وأسرع لتجربة سياحية أكثر راحة.
+## Project overview
+A single app that consolidates accommodation and booking options in Syria in an easier and faster way for a more comfortable travel experience.
 
-## أبرز النقاط
-- بحث وتصفية الفنادق حسب المدينة والسعر والتقييم
-- خريطة تفاعلية ومسار حجز
-- واجهة ثنائية اللغة عربي/إنجليزي
+## Highlights
+- Search and filter hotels by city, price, and rating
+- Interactive map and booking flow
+- Bilingual interface: Arabic/English
 
-## الدور
-مطوّر تطبيقات موبايل (Flutter): بناء التطبيق وإدارة الحالة والتكامل مع الخدمات الخلفية والنشر على المتاجر.
+## Role
+Mobile App Developer (Flutter): build the application, state management, backend integration, and deployment to app stores.
 
-## التقنيات المستخدمة
+## Technologies used
 Flutter, Dart, Riverpod, Google Maps API, Firebase, FCM, ASP.NET Core
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

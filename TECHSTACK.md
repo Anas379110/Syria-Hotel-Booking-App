@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق حجز الفنادق في سوريا
+# 🛠️ Technologies used — Syria Hotel Booking App
 
 - Flutter
 - Dart
